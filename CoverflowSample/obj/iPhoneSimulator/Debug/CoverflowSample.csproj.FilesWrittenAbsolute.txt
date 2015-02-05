@@ -1,0 +1,13 @@
+/Users/alexblount/Projects/CoverflowSample/CoverflowSample/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/alexblount/Projects/CoverflowSample/CoverflowSample/obj/iPhoneSimulator/Debug/ibtool/LaunchScreen.nib
+/Users/alexblount/Projects/CoverflowSample/CoverflowSample/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard.storyboardc/94y-tD-h20-view-zeY-FT-hdF.nib
+/Users/alexblount/Projects/CoverflowSample/CoverflowSample/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard.storyboardc/Info.plist
+/Users/alexblount/Projects/CoverflowSample/CoverflowSample/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard.storyboardc/UIViewController-94y-tD-h20.nib
+/Users/alexblount/Projects/CoverflowSample/CoverflowSample/obj/iPhoneSimulator/Debug/actool/partial-info.plist
+/Users/alexblount/Projects/CoverflowSample/CoverflowSample/obj/iPhoneSimulator/Debug/actool/asset-manifest.plist
+/Users/alexblount/Projects/CoverflowSample/CoverflowSample/obj/iPhoneSimulator/Debug/
+/Users/alexblount/Projects/CoverflowSample/CoverflowSample/bin/iPhoneSimulator/Debug/CoverflowSample.exe.mdb
+/Users/alexblount/Projects/CoverflowSample/CoverflowSample/bin/iPhoneSimulator/Debug/CoverflowSample.exe
+/Users/alexblount/Projects/CoverflowSample/CoverflowSample/obj/iPhoneSimulator/Debug/CoverflowSample.exe
+/Users/alexblount/Projects/CoverflowSample/CoverflowSample/obj/iPhoneSimulator/Debug/CoverflowSample.exe.mdb
+/Users/alexblount/Projects/CoverflowSample/CoverflowSample/bin/iPhoneSimulator/Debug/Haneke.dll

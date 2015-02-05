@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<component format="1" id="haneke">
+  <name>Haneke</name>
+  <publisher>Alex Blount</publisher>
+  <publisher-url>http://alexblount.co</publisher-url>
+  <version>1.0.1</version>
+  <summary>A lightweight zero-config image cache for iOS</summary>
+  <screenshots>
+    <img src="screenshots/screenshot.png" title="screenshot" />
+  </screenshots>
+  <samples>
+    <sample id="HanekeSample">
+      <name>iOS Sample</name>
+      <summary>iOS Sample</summary>
+    </sample>
+  </samples>
+</component>

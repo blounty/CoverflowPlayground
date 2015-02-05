@@ -1,0 +1,33 @@
+# Version: 8.6.1.20 (3b3ef43)
+# [first argument, ignore] # /Users/alexblount/Projects/CoverflowSample/CoverflowSample/mtouch.exe
+/Library/Frameworks/Xamarin.iOS.framework/Versions/8.6.1.20/bin/mtouch-64 \
+	--cache \
+	/Users/alexblount/Projects/CoverflowSample/CoverflowSample/obj/iPhoneSimulator/Debug/mtouch-cache \
+	--sim \
+	/Users/alexblount/Projects/CoverflowSample/CoverflowSample/bin/iPhoneSimulator/Debug/CoverflowSample.app \
+	--executable \
+	CoverflowSample \
+	--debug \
+	--nolink \
+	--sdkroot \
+	/Applications/Xcode.app/Contents/Developer \
+	--sdk \
+	8.1 \
+	--targetver \
+	8.0 \
+	--abi=i386 \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Xml.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Xamarin.iOS.dll \
+	-r \
+	../Components/haneke-1.0.1/lib/ios-unified/Haneke.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Core.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/mscorlib.dll \
+	-r \
+	../Components/haneke-1.0.1/lib/ios-unified/Haneke.dll \
+	/Users/alexblount/Projects/CoverflowSample/CoverflowSample/bin/iPhoneSimulator/Debug//CoverflowSample.exe \

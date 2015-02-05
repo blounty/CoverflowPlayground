@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoverflowSample", "CoverflowSample\CoverflowSample.csproj", "{C7F252ED-CCC2-4716-ADA8-AF9F33788CEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		AppStore|iPhone = AppStore|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7F252ED-CCC2-4716-ADA8-AF9F33788CEC}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{C7F252ED-CCC2-4716-ADA8-AF9F33788CEC}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{C7F252ED-CCC2-4716-ADA8-AF9F33788CEC}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{C7F252ED-CCC2-4716-ADA8-AF9F33788CEC}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{C7F252ED-CCC2-4716-ADA8-AF9F33788CEC}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{C7F252ED-CCC2-4716-ADA8-AF9F33788CEC}.Debug|iPhone.Build.0 = Debug|iPhone
+		{C7F252ED-CCC2-4716-ADA8-AF9F33788CEC}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{C7F252ED-CCC2-4716-ADA8-AF9F33788CEC}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{C7F252ED-CCC2-4716-ADA8-AF9F33788CEC}.Release|iPhone.ActiveCfg = Release|iPhone
+		{C7F252ED-CCC2-4716-ADA8-AF9F33788CEC}.Release|iPhone.Build.0 = Release|iPhone
+		{C7F252ED-CCC2-4716-ADA8-AF9F33788CEC}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{C7F252ED-CCC2-4716-ADA8-AF9F33788CEC}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+EndGlobal
